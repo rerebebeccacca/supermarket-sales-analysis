@@ -23,9 +23,13 @@ Data analysis project using Python and Tableau to explore supermarket sales tren
 ## 📁 Folder Structure
 supermarket-sales-analysis/
 ├── data/ ← dataset (CSV)
+
 ├── notebooks/ ← Jupyter/Colab notebooks
+
 ├── tableau/ ← dashboard image or workbook
+
 ├── report/ ← summary and insights (Markdown)
+
 ├── README.md ← this file
 
 
