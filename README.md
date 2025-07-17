@@ -27,7 +27,7 @@ supermarket-sales-analysis/
 
 ├── notebooks/ ← Jupyter/Colab notebooks
 
-├── tableau/ ← dashboard image or workbook
+├── visuals/ ← dashboard image or workbook
 
 ├── report/ ← summary and insights (Markdown)
 
