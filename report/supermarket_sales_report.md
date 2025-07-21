@@ -1,6 +1,6 @@
 #  Supermarket Sales 分析報告
 
-## 📁 資料來源
+##  資料來源
 - 使用 [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 - 共包含銷售日期、商品種類、客戶資訊、付款方式等多維度欄位
 
