@@ -58,9 +58,9 @@ supermarket-sales-analysis/
 ## 🧪 Status
 
 - [x] Repository created
-- [ ] Notebook in progress (Colab)
+- [x] Notebook in progress (Colab)
 - [ ] Tableau dashboard
-- [ ] Report writing
+- [x] Report writing
 - [ ] Final polish and upload
 
 ---
