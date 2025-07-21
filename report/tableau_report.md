@@ -9,7 +9,7 @@
 - 透過移動平均線，可看出月初、月底可能有高峰出現
 - 可協助行銷或庫存做高峰預測好觀測掌握短期與長期波動情況
 
-![Daily Sales with 7-day Moving Average](../images/daily_sales_with_moving_avg.png)
+![Daily Sales with 7-day Moving Average](../visuals/daily_sales_with_moving_avg.png)
 
 ## 2.城市總銷售額比較-長條圖
 
@@ -21,7 +21,7 @@
 
 此分析可作為區域資源配置的參考，幫助行銷團隊精準投放策略。
 
-![City-wise Sales](../images/city_total_sales.png)
+![City-wise Sales](../visuals/city_total_sales.png)
 
 ## 3.各城市 × 小時銷售-熱力圖
 
@@ -41,7 +41,7 @@ Y 軸：城市（City）
 - 規劃每個城市最佳行銷發送時段（EDM / 廣告）
 - 安排人力資源高峰時間
 
-![CityHour Heatmap](../images/city_hour_heatmap.png)
+![CityHour Heatmap](../visuals/city_hour_heatmap.png)
 
 ## 4.商品類別 × 會員狀態：會員 vs 非會員購買偏好分析-堆疊長條圖
 
@@ -58,7 +58,7 @@ Y 軸：城市（City）
 - 非會員對「Fashion accessories」與「Electronic accessories」偏好明顯
 → 可為會員設計專屬品類促銷，並對非會員進行導入轉換設計
 
-![productline_membertype](../images/productline_membertype.png)
+![productline_membertype](../visuals/productline_membertype.png)
 
 ## 5.顧客性別 × 商品偏好：百分比堆疊分析
 
@@ -75,7 +75,7 @@ Y 軸：城市（City）
 - 男性偏好「Electronic accessories」與「Food and beverages」
 → 可根據性別進行精準商品推薦與行銷策略設計
 
-![gender_productline](../images/gender_productline.png)
+![gender_productline](../visuals/gender_productline.png)
 
 ## 後續建議：
 
