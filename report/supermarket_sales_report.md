@@ -18,7 +18,7 @@
 - 日期轉換為 datetime 格式，擷取 Hour、Day
 - 對類別欄位進行 one-hot encoding
 - 建立衍生欄位：
-  - `HighValueMember`：根據 Total 是否大於中位數標記高價值顧客
+  - `HighValueMember`：根據 Sales銷售金額 是否大於中位數標記高價值顧客
 
 ---
 
