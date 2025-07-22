@@ -85,4 +85,4 @@ Y 軸：城市（City）
 
 根據性別偏好優化商品推薦與宣傳策略。
 
-## [🔗 查看完整 Tableau Dashboard](https://public.tableau.com/app/profile/你的網址)
+## [🔗 查看完整 Tableau Dashboard](https://public.tableau.com/views/SupermarketSales-CityAnalysis_17531423569110/sheet5?:language=zh-TW&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
