@@ -59,7 +59,9 @@
 |Sports and travel	   |           62.0|         	38.0|
 
 用熱力圖顯示
+
 ![商品類別 × 性別購買比例（%）](../visuals/gender_productline_heatmap.png)
+
 從圖中可以觀察：
 
 * 女性對於「Fashion accessories」與「Sports and travel 」類別的購買筆數高於男性
